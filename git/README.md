@@ -22,3 +22,5 @@
 - 브랜치 전환
   1. `git swtich 브랜치명`
   2. `git checkout 브랜치명`
+- 브랜치 생성 및 전환
+  1. `git chekcout -b 브랜치명`
